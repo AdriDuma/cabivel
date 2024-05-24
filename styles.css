@@ -158,3 +158,9 @@ body {
     width: 100px;
     height: 100px;
 }
+
+.container__imagem{
+    width: 200px;
+       margin-top: -500px;
+    margin-left: 300px;
+}
